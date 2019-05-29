@@ -241,6 +241,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://books.google.com/books/about/Domain_driven_Design.html?id=7dlaMs0SECsC&redir_esc=y)
 * [The Pragmatic Programmer: From Journeyman to Master](http://books.google.com/books/about/The_Pragmatic_Programmer.html?id=5wBQEp6ruIAC&redir_esc=y)
 * [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://books.google.com/books/about/The_Passionate_Programmer.html?id=FvJePgAACAAJ&redir_esc=y)
+* [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php)
 
 ## People
 *Some fantastic and influential PHP and non-PHP developers.*
